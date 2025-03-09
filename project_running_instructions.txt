@@ -1,0 +1,15 @@
+1. Clone repo : git clone https://github.com/SoubhikSinha/Applicant-Tracking-System-Google-Gemini.git
+
+2. Create virtual env : conda create -p ./venv python=3.11 -y
+
+3. Activate env : conda activate venv/
+
+4. Install dependencies : pip install -r requirements.txt
+
+5. Create API Key : https://aistudio.google.com/u/1/apikey?pli=1
+
+6. Copy-n-Paste API Key to .env file
+
+7. Run the application : streamlit run app.py
+
+8. Upload your resume and a job rol's job description and play around with the application
