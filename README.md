@@ -1,4 +1,4 @@
-# Applicant Tracking System (ATS) -Google Gemini
+# Applicant Tracking System (ATS) -  Google Gemini
 
 ## Acknowledgement
 I would like to extend my sincere thanks to  **[Krish Naik](https://github.com/krishnaik06)**  for his invaluable content and guidance, which helped me build this project. This project wouldn't have been possible without his educational resources.
@@ -21,7 +21,7 @@ This project demonstrates the integration of **[Google Gemini](https://aistudio.
 
 <br>
 
-# How to Run the Project ?
+## How to Run the Project ?
 
 (NOTE : This project was carried out on a  [Macintosh](https://www.apple.com/mac/)  machine)
 
