@@ -31,7 +31,7 @@ def input_pdf_setup(uploaded_file):
     Converting the PDF file into image
     '''
     if uploaded_file is not None:
-        images = pdf2image.convert_from_bytes(uploaded_file.read()) # converting the file (read) - form bytes to Image
+        images = pdf2image.convert_from_bytes(uploaded_file.read()) # converting the file (read) - from bytes to Image
         
         first_page = images[0]
 
