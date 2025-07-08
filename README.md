@@ -1,23 +1,37 @@
-# Applicant Tracking System (ATS) -  Google Gemini
+# Applicant Tracking System (ATS) — Powered by Google Gemini
 
 ## Acknowledgement
-I would like to extend my sincere thanks to  **[Krish Naik](https://github.com/krishnaik06)**  for his invaluable content and guidance, which helped me build this project. This project wouldn't have been possible without his educational resources.
+I extend my sincere gratitude to **[Krish Naik](https://github.com/krishnaik06)** for his exceptional educational resources and mentorship. His content was instrumental in conceptualizing and implementing this project.
 
 <br>
 
-## About the Project
+## Project Overview
+This project showcases a cutting-edge **AI-powered Applicant Tracking System (ATS)** that leverages **Google Gemini** and **Streamlit** to evaluate resumes against specific job descriptions. It offers a real-time, automated assessment pipeline that delivers actionable feedback for job seekers and hiring professionals alike.
 
-This project demonstrates the integration of **[Google Gemini](https://aistudio.google.com/prompts/new_chat)** and an **[Application Tracking System (ATS)](https://www.jobscan.co/blog/8-things-you-need-to-know-about-applicant-tracking-systems/)** to analyze resumes against job descriptions. The application is deployed on **[Streamlit](https://streamlit.io/)** and allows users to upload their resume and a job description for analysis.
+<br>
 
-### Features :
+## Key Technologies
+**Google Gemini** : Utilized as the core **large language model** for semantic analysis, comparison, and recommendation, enabling deep contextual understanding of resumes and job descriptions.
+<br>
+**Streamlit** : Provides a sleek, responsive web interface allowing users to seamlessly upload documents and interact with the system in real-time.
 
-1.  **Tell Me About the Resume**
+<br>
+
+## Features
+### **"Tell Me About the Resume"**
+
+-   The LLM evaluates the uploaded resume and provides a structured analysis.
     
-    -   The LLM model assesses the user's resume and compares it to the provided job description.
-    -   It suggests modifications or improvements to align the resume better with the job requirements.
-2.  **Percentage Match**
+-   Suggests actionable edits to better align the resume with the job description.
     
-    -   The model provides a **percentage match score** indicating how well the resume aligns with the job description.
+-   Identifies skill gaps and content mismatches.
+    
+
+### **Percentage Match Score**
+
+-   Computes a similarity score indicating how well the resume matches the job description.
+    
+-   Offers an objective metric for resume-job fit analysis.
 
 <br>
 
