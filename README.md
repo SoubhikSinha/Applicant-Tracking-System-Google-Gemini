@@ -40,15 +40,11 @@ Clone the repository to your local machine :
 git clone https://github.com/SoubhikSinha/Applicant-Tracking-System-Google-Gemini.git
 ```
 
-<br>
-
 ### **2. Create a Virtual Environment**
 Navigate to the repository's root directory and create a Conda virtual environment :
 ```bash
 conda create -p ./venv python=3.11 -y
 ```
-
-<br>
 
 ### **3. Activate the Conda Environment**
 Activate the newly created environment :
@@ -56,15 +52,11 @@ Activate the newly created environment :
 conda activate venv/
 ```
 
-<br>
-
 ### **4. Install Required Libraries**
 Install all the necessary dependencies :
 ```bash
 pip install -r requirements.txt
 ```
-
-<br>
 
 ### **5. Set Up Google API Key**
 Create and paste your Google API key inside  `.env`  file. Get your API key from  [Google AI Studio](https://aistudio.google.com/app/apikey).
@@ -74,15 +66,11 @@ Example  `.env`  file content :
 GOOGLE_API_KEY="your_api_key_here"
 ```
 
-<br>
-
 ### **6. Run the Application**
 Start the Streamlit application by running :
 ```bash
 streamlit run app.py
 ```
-
-<br>
 
 ### **7. Upload and Analyze**
 -   Upload your resume and the job description.
@@ -90,5 +78,5 @@ streamlit run app.py
 
 <br>
 
-## Reference
+## References
 [Krish Naik](https://github.com/krishnaik06)
