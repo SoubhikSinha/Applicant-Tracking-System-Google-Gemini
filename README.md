@@ -1,10 +1,5 @@
 # Applicant Tracking System (ATS) — Powered by Google Gemini
 
-## Acknowledgement
-I extend my sincere gratitude to **[Krish Naik](https://github.com/krishnaik06)** for his exceptional educational resources and mentorship. His content was instrumental in conceptualizing and implementing this project.
-
-<br>
-
 ## Project Overview
 This project showcases a cutting-edge **AI-powered Applicant Tracking System (ATS)** that leverages **Google Gemini** and **Streamlit** to evaluate resumes against specific job descriptions. It offers a real-time, automated assessment pipeline that delivers actionable feedback for job seekers and hiring professionals alike.
 
@@ -92,3 +87,8 @@ streamlit run app.py
 ### **7. Upload and Analyze**
 -   Upload your resume and the job description.
 -   Explore the application's insights and resume-matching features.
+
+<br>
+
+## Reference
+[Krish Naik](https://github.com/krishnaik06)
