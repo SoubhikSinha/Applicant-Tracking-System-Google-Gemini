@@ -75,8 +75,3 @@ streamlit run app.py
 ### **7. Upload and Analyze**
 -   Upload your resume and the job description.
 -   Explore the application's insights and resume-matching features.
-
-<br>
-
-## References
-[Krish Naik](https://github.com/krishnaik06)
